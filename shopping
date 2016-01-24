@@ -1,0 +1,1134 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script><meta name="language" content="en-uk, english"><!--zz--> <!--placeholder for noindex--><title>E-DigitalShoppe: Mobile Phone Price in India</title><!--zz--> <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Open+Sans:400,600'><link rel='stylesheet' type='text/css' href='/msp/css/common.css'><link rel='stylesheet' type='text/css' href='/assets/css/msp_new.css'><meta name="og_title" property="og:title" content=""/>
+<meta name="og_url" property="og:url" content="http://www.E-DigitalShoppe.com"/>
+<meta name="og_site_name" property="og:site_name" content="E-DigitalShoppe.com"/><meta property="og:image" content=""/><meta property="og:description" content=""/><meta name="og_type" property="og:type" content="website"/><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/bofbpdmkbmlancfihdncikcigpokmdda"/><link rel="canonical" href="http://www.E-DigitalShoppe.com"/><link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.E-DigitalShoppe.com'><link rel='alternate' href='android-app://com.E-DigitalShoppe.E-DigitalShoppe/http/dl.E-DigitalShoppe.com'><meta name='Description' content='India&#39;s Best Price comparison and Product discovery platform for Mobiles, Electronics, Appliances and Lifestyle products.'/><script type="text/javascript">
+        var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-7587491-10']);
+    _gaq.push(['_setDomainName', 'E-DigitalShoppe.com']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+
+    </script>
+<script type="text/javascript">
+        function popup(pageURL, title,w,h) {
+            var left = (screen.width/2)-(w/2);
+            var top = (screen.height/2)-(h/2);
+
+            var targetWin = window.open (pageURL, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);
+
+            if (window.focus) {targetWin.focus()}
+            return false;
+
+        }
+    </script>
+<!-- Script PlaceHolder--><!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type='text/javascript'>
+        var _vwo_code=(function(){
+            var account_id=174743,
+            settings_tolerance=2000,
+            library_tolerance=2500,
+            use_existing_jquery=false,
+            // DO NOT EDIT BELOW THIS LINE
+            f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+    </script>
+<!-- End Visual Website Optimizer Asynchronous Code --><link rel="dns-prefetch" href="//doypaxk1e2349.cloudfront.net"><link rel="dns-prefetch" href="//c288724.r24.cf1.rackcdn.com"><link rel="dns-prefetch" href="//c28655.r55.cf1.rackcdn.com"><link rel="dns-prefetch" href="//a672c82f2734421c7062-2a7b68bd1399ab982df715c9d055b004.r0.cf1.rackcdn.com"><link rel="dns-prefetch" href="//c0028545.cdn1.cloudfiles.rackspacecloud.com"><link rel="dns-prefetch" href="//4befd2b75084217bdb89-0db8ef8f76dda1bacd72a54e7571190e.r6.cf1.rackcdn.com"><link rel="dns-prefetch" href="//ajax.googleapis.com"></head><body background="v.jpg" >
+<div class="hdr">
+<div class="main-hdr-wrpr">
+<div class="main-hdr">
+<a>
+<img src="final.jpg" width="160" height="100" />
+</a>
+<div class="srch-wdgt ui-front" data-url="/msp/search/auto_suggest_search.php">
+<form class="js-srch-wdgt__frm" method="POST" action="">
+<input required="" name="s" placeholder="Search millions of products from online and nearby stores" class="srch-wdgt__fld js-atcmplt js-hdr-srch" autocomplete="off" type="search">
+<button type="submit" class="srch-wdgt__sbmt" value=""></button>
+</form>
+</div>
+</div>
+</div>
+</div><!-- Google Tag Manager -->
+<noscript><iframe src='//www.googletagmanager.com/ns.html?id=GTM-WMHBCZ' height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-WMHBCZ');</script>
+<!-- End Google Tag Manager --><div class="sub-hdr">
+<ul class="nvgtn-bar">
+<li class="nvgtn-bar__item menu-ctgry js-ctgry-btn">
+<span class="menu-ctgry__hmbrgr-icon"></span>All Categories
+<span class="menu-ctgry__down-icon"></span>
+<div class="drpdwn-menu-wrpr js-drpdwn-menu-wrpr" data-ver="0.47">
+<div class="drpdwn-menu-wrpr__ldng">
+<div class="ldr js-drpdwn-menu-ldng">
+<div class="ldr__crcl"></div>
+</div>
+</div>
+<ul class="drpdwn-menu"></ul>
+</div>
+</li><table width="100" height="100">
+<tr>
+<td><li class="nvgtn-bar__item nvgtn-bar__item--frst "><a class="nvgtn-bar__item-link " href="/mobile/">Mobiles</a>
+</li></td>
+<td><li class="nvgtn-bar__item "> <a class="nvgtn-bar__item-link " href="/computer/">Computers</a>
+</li></td>
+<td><li class="nvgtn-bar__item "><a class="nvgtn-bar__item-link " href="/electronics/">TV / Entertainment</a>
+</li></td></tr>
+<tr><td><li class="nvgtn-bar__item "><a class="nvgtn-bar__item-link " href="/appliance/">Appliances</a>
+</li></td>
+<td><li class="nvgtn-bar__item "><a class="nvgtn-bar__item-link " href="/care/">Personal Care</a>
+</li></td>
+<td><li class="nvgtn-bar__item "><a rel='nofollow' class="nvgtn-bar__item-link " href="/men/">Men</a>
+</li></td></tr>
+<tr><td><li class="nvgtn-bar__item "><a rel='nofollow' class="nvgtn-bar__item-link " href="/women/">Women</a>
+</li></td>
+<td><li class="nvgtn-bar__item "><a rel='nofollow' class="nvgtn-bar__item-link " href="/kids/">Kids</a>
+</li></td>
+<td><li class="nvgtn-bar__item "><a rel='nofollow' class="nvgtn-bar__item-link " href="/home/">Home Decor</a>
+</li></td></tr>
+<tr><td><li class="nvgtn-bar__item nvgtn-bar__item--hghlght"><a rel='nofollow' class="nvgtn-bar__item-link " href="/deals/">Deals</a>
+</li></td></tr>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div class="drpdwn-menu-ovrly js-drpdwn-menu-ovrly"></div>
+<div class="hdr-size">
+<div class="hdr-size__main"></div>
+<div class="hdr-size__sub-hdr"></div>
+</div><div class="body-wrpr clearfix">
+<div class="algn-wrpr clearfix">
+<div class="sdbr">
+<div class="ctgry-list">
+<div class="ctgry-item">
+<a class="ctgry-link ctgry-link--dls-offrs" href="http://www.E-DigitalShoppe.com/deals/">
+<span class="ctgry-item__icon"></span>
+<span class="ctgry-item__text">Deals &amp; Offers</span>
+</a>
+</div>
+<div class="ctgry-item">
+<a class="ctgry-link ctgry-link--mbl" href="http://www.E-DigitalShoppe.com/mobile/">
+<span class="ctgry-item__icon"></span>
+<span class="ctgry-item__text">Mobile, Tablets &amp; Accessories</span>
+</a>
+</div>
+<div class="ctgry-item">
+<a class="ctgry-link ctgry-link--lptp" href="http://www.E-DigitalShoppe.com/computer/">
+<span class="ctgry-item__icon"></span>
+<span class="ctgry-item__text">Laptops &amp; Peripherals</span>
+</a>
+</div>
+<div class="ctgry-item">
+<a rel='nofollow' class="ctgry-link ctgry-link--men-fshn" href="http://www.E-DigitalShoppe.com/men/">
+<span class="ctgry-item__icon"></span>
+<span class="ctgry-item__text">Men Fashion</span>
+</a>
+</div>
+<div class="ctgry-item">
+<a rel='nofollow' class="ctgry-link ctgry-link--women-fshn" href="http://www.E-DigitalShoppe.com/women/">
+<span class="ctgry-item__icon"></span>
+<span class="ctgry-item__text">Women Fashion</span>
+</a>
+</div>
+<div class="ctgry-item">
+<a rel='nofollow' class="ctgry-link ctgry-link--home-dcr" href="http://www.E-DigitalShoppe.com/home/">
+<span class="ctgry-item__icon"></span>
+<span class="ctgry-item__text">Home Decor &amp; Kitchen</span>
+</a>
+</div>
+<div class="ctgry-item">
+<a rel='nofollow' class="ctgry-link ctgry-link--bks" href="http://www.E-DigitalShoppe.com/books/">
+<span class="ctgry-item__icon"></span>
+<span class="ctgry-item__text">Books &amp; Media</span>
+</a>
+</div>
+<div class="ctgry-item">
+<a class="ctgry-link ctgry-link--prsnl-hlth" href="http://www.E-DigitalShoppe.com/care/">
+<span class="ctgry-item__icon"></span>
+<span class="ctgry-item__text">Personal &amp; Health Devices</span>
+</a>
+</div>
+<div class="ctgry-item">
+<a class="ctgry-link ctgry-link--home" href="http://www.E-DigitalShoppe.com/appliance/">
+<span class="ctgry-item__icon"></span>
+<span class="ctgry-item__text">Home &amp; Kitchen Appliances</span>
+</a>
+</div>
+<div class="ctgry-item ">
+<a class="ctgry-link ctgry-link--tv" href="http://www.E-DigitalShoppe.com/electronics/">
+<span class="ctgry-item__icon"></span>
+<span class="ctgry-item__text">TV &amp; Entertainment Devices</span>
+</a>
+</div>
+<div class="ctgry-item">
+<a class="ctgry-link ctgry-link--cmr" href="http://www.E-DigitalShoppe.com/camera/">
+<span class="ctgry-item__icon"></span>
+<span class="ctgry-item__text">Cameras, DSLRs &amp; Accessories</span>
+</a>
+</div>
+<div class="ctgry-item">
+<a class="ctgry-link ctgry-link--cpns" href="http://coupons.E-DigitalShoppe.com/">
+<span class="ctgry-item__icon"></span>
+<span class="ctgry-item__text">Coupons &amp; Discounts</span>
+</a>
+</div>
+<div class="ctgry-item">
+<a rel='nofollow' class="ctgry-link ctgry-link--baby" href="http://www.E-DigitalShoppe.com/kids/">
+<span class="ctgry-item__icon"></span>
+<span class="ctgry-item__text">Baby &amp; Kids</span>
+</a>
+</div>
+<div class="ctgry-item">
+<a rel='nofollow' class="ctgry-link ctgry-link--bty" href="http://www.E-DigitalShoppe.com/beauty/">
+<span class="ctgry-item__icon"></span>
+<span class="ctgry-item__text">Beauty &amp; Health</span>
+</a>
+</div>
+</div>
+<div class="sctn sctn--sdbr">
+<div class="sctn__hdr clearfix">
+<div class="sctn__ttl "> Mobile Phone Price Lists</div>
+</div>
+<div class="sctn__inr clearfix">
+<div class="sdbr-list__item">
+<a href="/mobile/pricelist/samsung-mobile-price-list-in-india.html" class="sdbr-list__img-wrpr">
+<img class="sdbr-list__img" src="http://c288724.r24.cf1.rackcdn.com/brnd-samsung-100.png" alt="Samsung Mobile Price List.">
+</a>
+<div class="sdbr-list__item-dtls">
+<a href="/mobile/pricelist/samsung-mobile-price-list-in-india.html" class="sdbr-list__item-ttl">
+Samsung Mobile Price List
+</a>
+</div>
+</div>
+<div class="sdbr-list__item">
+<a href="/mobile/pricelist/micromax-mobile-price-list-in-india.html" class="sdbr-list__img-wrpr">
+<img class="sdbr-list__img" src="http://c288724.r24.cf1.rackcdn.com/brnd-micromax-100.png" alt="Micromax Mobile Price List in India">
+</a>
+<div class="sdbr-list__item-dtls">
+<a href="/mobile/pricelist/micromax-mobile-price-list-in-india.html" class="sdbr-list__item-ttl">
+Micromax Mobile Price List
+</a>
+</div>
+</div>
+<div class="sdbr-list__item">
+<a href="/mobile/pricelist/sony-mobile-price-list-in-india.html" class="sdbr-list__img-wrpr">
+<img class="sdbr-list__img" src="http://c28655.r55.cf1.rackcdn.com/sonyericsson_square.png" alt="Sony Mobile Price List">
+</a>
+<div class="sdbr-list__item-dtls">
+<a href="/mobile/pricelist/sony-mobile-price-list-in-india.html" class="sdbr-list__item-ttl">
+Sony Mobile Price List
+</a>
+</div>
+</div>
+<div class="sdbr-list__item">
+<a href="/mobile/pricelist/lenovo-mobile-price-list-in-india.html" class="sdbr-list__img-wrpr">
+<img class="sdbr-list__img" src="http://a672c82f2734421c7062-2a7b68bd1399ab982df715c9d055b004.r0.cf1.rackcdn.com/brnd-lenovo-100.png" alt="Lenovo Mobiles Price">
+</a>
+<div class="sdbr-list__item-dtls">
+<a href="/mobile/pricelist/lenovo-mobile-price-list-in-india.html" class="sdbr-list__item-ttl">
+Lenovo Mobiles Price in India
+</a>
+</div>
+</div>
+<div class="sdbr-list__item">
+<a href="/mobile/pricelist/htc-mobile-price-list-in-india.html" class="sdbr-list__img-wrpr">
+<img class="sdbr-list__img" src="http://c28655.r55.cf1.rackcdn.com/htc_square.png" alt="HTC Mobile Price List">
+</a>
+<div class="sdbr-list__item-dtls">
+<a href="/mobile/pricelist/htc-mobile-price-list-in-india.html" class="sdbr-list__item-ttl">
+HTC Mobile Price List
+</a>
+</div>
+</div>
+<div class="sdbr-list__item">
+<a href="/mobile/pricelist/nokia-mobile-price-list-in-india.html" class="sdbr-list__img-wrpr">
+<img class="sdbr-list__img" src="http://c288724.r24.cf1.rackcdn.com/brnd-nokia-100.png" alt="Nokia Mobile Price List">
+</a>
+<div class="sdbr-list__item-dtls">
+<a href="/mobile/pricelist/nokia-mobile-price-list-in-india.html" class="sdbr-list__item-ttl">
+Nokia Mobile Price List
+</a>
+</div>
+</div>
+<div class="sdbr-list__item">
+<a href="/mobile/pricelist/intex-mobile-price-list-in-india.html" class="sdbr-list__img-wrpr">
+<img class="sdbr-list__img" src="http://a672c82f2734421c7062-2a7b68bd1399ab982df715c9d055b004.r0.cf1.rackcdn.com/brnd-intex-100.png" alt="Intex Mobile Price in India">
+</a>
+<div class="sdbr-list__item-dtls">
+<a href="/mobile/pricelist/intex-mobile-price-list-in-india.html" class="sdbr-list__item-ttl">
+Intex Mobile Price
+</a>
+</div>
+</div>
+<div class="sdbr-list__item">
+<a href="http://www.E-DigitalShoppe.com/mobile/pricelist/xiaomi-mobile-price-list-in-india.html" class="sdbr-list__img-wrpr">
+<img class="sdbr-list__img" src="http://a672c82f2734421c7062-2a7b68bd1399ab982df715c9d055b004.r0.cf1.rackcdn.com/brnd-xiaomi-100.png" alt="xiaomi mobiles price in india">
+</a>
+<div class="sdbr-list__item-dtls">
+<a href="/mobile/" class="sdbr-list__item-ttl">
+Xiaomi Mobile Price
+</a>
+</div>
+</div>
+<div class="sdbr-list__item">
+<a href="/mobile/pricelist/gionee-mobile-price-list-in-india.html" class="sdbr-list__img-wrpr">
+<img class="sdbr-list__img" src="http://a672c82f2734421c7062-2a7b68bd1399ab982df715c9d055b004.r0.cf1.rackcdn.com/brnd-gionee-100.png" alt="Gionee Mobile Price in India">
+</a>
+<div class="sdbr-list__item-dtls">
+<a href="/mobile/pricelist/gionee-mobile-price-list-in-india.html" class="sdbr-list__item-ttl">
+Gionee Mobile Price in India
+</a>
+</div>
+</div>
+<div class="sdbr-list__item">
+<a href="/mobile/pricelist/karbonn-mobile-price-list-in-india.html" class="sdbr-list__img-wrpr">
+<img class="sdbr-list__img" src="http://c28655.r55.cf1.rackcdn.com/karbonn_square.png" alt="Karbonn Mobile Price List">
+</a>
+<div class="sdbr-list__item-dtls">
+<a href="/mobile/pricelist/karbonn-mobile-price-list-in-india.html" class="sdbr-list__item-ttl">
+Karbonn Mobile Price List
+</a>
+</div>
+</div>
+<div class="sdbr-list__item">
+<a href="/mobile/pricelist/tablet-price-list-in-india.html" class="sdbr-list__img-wrpr">
+<img class="sdbr-list__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/2444-thumb.jpg" alt="Tablets Price in India">
+</a>
+<div class="sdbr-list__item-dtls">
+<a href="/mobile/pricelist/tablet-price-list-in-india.html" class="sdbr-list__item-ttl">
+Tablets Price in India
+</a>
+</div>
+</div>
+<div class="sdbr-list__item">
+<a href="/mobile/pricelist/android-mobile-price-list-in-india.html" class="sdbr-list__img-wrpr">
+<img class="sdbr-list__img" src="http://c288724.r24.cf1.rackcdn.com/brnd-android-100.png" alt="Android Phones in India">
+</a>
+<div class="sdbr-list__item-dtls">
+<a href="/mobile/pricelist/android-mobile-price-list-in-india.html" class="sdbr-list__item-ttl">
+Android Phones in India
+</a>
+</div>
+</div>
+</div>
+<a class="sctn__view-all" href="/mobile/pricelist/">
+View All
+</a>
+</div>
+</div>
+<div class="main-wrpr">
+<div class='crsl-wdgt js-crsl-wdgt'><a rel='nofollow' class="crsl-wdgt__bnr" href='http://www.E-DigitalShoppe.com/deals/apple-ipad-pro-2gb-ram-32gb-rom-dealid110271?ref=home_d_1_0701'><img alt='' class='crsl-wdgt__bnr-img' src=http://4befd2b75084217bdb89-0db8ef8f76dda1bacd72a54e7571190e.r6.cf1.rackcdn.com/Shopmonk-iPadPro-Desktop.gif /></a><a rel='nofollow' class="crsl-wdgt__bnr" href='http://www.E-DigitalShoppe.com/out/sendtostore.php?mspid=7280&access_point=desktop&l1=c&top_category=electronics&category=mobile&url=http%3A%2F%2Fwww.flipkart.com%2Fhonor-7%2Fp%2Fitmebagjdxughuzh%3Fpid%3DMOBEBAGJF5XGY4Y9%26al%3DhdbK17%252FSG53sVUh35ddSm8ldugMWZuE7Qdj0IGOOVqstkpGm7xcbIBmTd8rSZSZj1SqVuR7kRBI%253D%26ref%3DL%253A-3351882188647740580%26srno%3Db_9&store=flipkart'><img alt='' class='crsl-wdgt__bnr-img' src=http://4befd2b75084217bdb89-0db8ef8f76dda1bacd72a54e7571190e.r6.cf1.rackcdn.com/honor7-banner_Black.jpg /></a><a rel='nofollow' class="crsl-wdgt__bnr" href='http://www.E-DigitalShoppe.com/men/sports-shoes-men?ref=home_nc_2_0401&/filter=discount:60;80/'><img alt='' class='crsl-wdgt__bnr-img' src=http://4befd2b75084217bdb89-0db8ef8f76dda1bacd72a54e7571190e.r6.cf1.rackcdn.com/db_04jan_sports_shoes.png /></a><div class='crsl-wdgt__prvs-btn'>&lsaquo;</div><div class='crsl-wdgt__next-btn'>&rsaquo;</div></div><div class='promo clearfix'><a rel='nofollow' href='http://www.E-DigitalShoppe.com/loyalty/how-it-works/?ref=home_myrewards' class='promo__link'><img class='promo__img' alt='Small Banner1' src=http://4befd2b75084217bdb89-0db8ef8f76dda1bacd72a54e7571190e.r6.cf1.rackcdn.com/myr_minibanner_01.png></a><a rel='nofollow' href='http://www.E-DigitalShoppe.com/2015/?ref=home_yearreview' class='promo__link'><img class='promo__img' alt='Small Banner1' src=http://4befd2b75084217bdb89-0db8ef8f76dda1bacd72a54e7571190e.r6.cf1.rackcdn.com/year-review-img.png></a><a rel='nofollow' href='http://www.E-DigitalShoppe.com/deals/tags/happy-hours-deals-252?ref=home_happyhours' class='promo__link--last'><img class='promo__img' alt='Small Banner2' src=http://4befd2b75084217bdb89-0db8ef8f76dda1bacd72a54e7571190e.r6.cf1.rackcdn.com/dbc_happyhour_1.0.png></a></div> <!--<div class="promo clearfix">
+          <a href="#" class="promo__link">
+            <img class="promo__img" alt="Small Banner1" src="img/small_banner_01.png">
+          </a>
+          <a href="#" class="promo__link">
+            <img class="promo__img" alt="Small Banner2" src="img/small_banner_02.png">
+          </a>
+          <a href="#" class="promo__link promo__link-last">
+            <img class="promo__img" alt="Small Banner3" src="img/small_banner_01.png">
+          </a>
+        </div>-->
+<div class="sctn prdct-grid">
+<div class="sctn__hdr clearfix">
+<div class="sctn__ttl">Popular Mobile Phones as on January 7, 2016</div>
+<div class="sctn__nvgtn">
+<!--<a class="sctn__view-all-link" href="#">VIEW ALL</a>-->
+</div>
+</div>
+<div class="sctn__inr clearfix">
+<div class="prdct-item" data-mspid="2439">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-s4-msp2439">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/2439-msp-10-thumb.jpg" alt="Samsung  Galaxy S4 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-s4-msp2439">Samsung Galaxy S4</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 3.9 by 1934 number of users.">
+<div class="rtng-star__inr" style="width: 78%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">12,500</span>
+</div>
+<span class="prdct-item__str-optns"><strong>6 Stores </strong> at &#8377;12,500</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="3633">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-grand-2-msp3633">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/3633-msp-9-thumb.jpg" alt="Samsung Galaxy Grand 2 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-grand-2-msp3633">Samsung Galaxy Grand 2</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 4.2 by 1774 number of users.">
+<div class="rtng-star__inr" style="width: 84%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">10,266</span>
+</div>
+<span class="prdct-item__str-optns"><strong>10 Stores </strong> at &#8377;10,266</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="4340">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/apple-iphone-6-msp4340">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/4340-msp-2-thumb.jpg" alt="Apple iPhone 6 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/apple-iphone-6-msp4340">Apple iPhone 6</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 4.4 by 2102 number of users.">
+<div class="rtng-star__inr" style="width: 88%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">38,999</span>
+</div>
+<span class="prdct-item__str-optns"><strong>12 Stores </strong> at &#8377;38,999</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="4359">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-note-4-msp4359">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/4359-msp-7-thumb.jpg" alt="Samsung Galaxy Note 4 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-note-4-msp4359">Samsung Galaxy Note 4</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 3.8 by 175 number of users.">
+<div class="rtng-star__inr" style="width: 76%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">35,999</span>
+</div>
+<span class="prdct-item__str-optns"><strong>7 Stores </strong> at &#8377;35,999</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="4760">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/apple-iphone-6-plus-msp4760">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/4760-msp-2-thumb.jpg" alt="Apple iPhone 6 Plus Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/apple-iphone-6-plus-msp4760">Apple iPhone 6 Plus</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 4.4 by 285 number of users.">
+<div class="rtng-star__inr" style="width: 88%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">49,490</span>
+</div>
+<span class="prdct-item__str-optns"><strong>7 Stores </strong> at &#8377;49,490</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="5275">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-s6-msp5275">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/5275-msp-10-thumb.jpg" alt="Samsung Galaxy S6 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-s6-msp5275">Samsung Galaxy S6</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 3.8 by 105 number of users.">
+<div class="rtng-star__inr" style="width: 76%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">31,000</span>
+</div>
+<span class="prdct-item__str-optns"><strong>9 Stores </strong> at &#8377;31,000</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="5530">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-grand-max-msp5530">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/5530-msp-3-thumb.jpg" alt="Samsung Galaxy Grand Max Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-grand-max-msp5530">Samsung Galaxy Grand Max</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 4.4 by 4633 number of users.">
+<div class="rtng-star__inr" style="width: 88%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">12,439</span>
+</div>
+<span class="prdct-item__str-optns"><strong>4 Stores </strong> at &#8377;12,439</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="5838">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-s6-msp5838">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/5838-msp-2-thumb.jpg" alt="Samsung Galaxy S6 Edge Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-s6-msp5838">Samsung Galaxy S6 Edge</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 3.8 by 70 number of users.">
+<div class="rtng-star__inr" style="width: 76%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">42,650</span>
+</div>
+<span class="prdct-item__str-optns"><strong>7 Stores </strong> at &#8377;42,650</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="6115">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/lenovo-a7000-msp6115">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/6115-2-thumb.jpg" alt="Lenovo A7000 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/lenovo-a7000-msp6115">Lenovo A7000</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 3.8 by 3038 number of users.">
+<div class="rtng-star__inr" style="width: 76%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">8,799</span>
+</div>
+<span class="prdct-item__str-optns"><strong>9 Stores </strong> at &#8377;8,799</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="6259">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/micromax-canvas-juice-2-msp6259">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/6259-msp-8-thumb.jpg" alt="Micromax Canvas Juice 2 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/micromax-canvas-juice-2-msp6259">Micromax Canvas Juice 2</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 4 by 1146 number of users.">
+<div class="rtng-star__inr" style="width: 80%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">6,199</span>
+</div>
+<span class="prdct-item__str-optns"><strong>8 Stores </strong> at &#8377;6,199</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="6760">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-a8-msp6760">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/6760-1-thumb.jpg" alt="Samsung Galaxy A8 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-a8-msp6760">Samsung Galaxy A8</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 3.9 by 54 number of users.">
+<div class="rtng-star__inr" style="width: 78%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">28,900</span>
+</div>
+<span class="prdct-item__str-optns"><strong>8 Stores </strong> at &#8377;28,900</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="7009">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/xiaomi-mi5-msp7009">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/new7009-672-thumb.jpg" alt="Xiaomi Mi5 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/xiaomi-mi5-msp7009">Xiaomi Mi5</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 1 by 2 number of users.">
+<div class="rtng-star__inr" style="width: 20%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">29,999</span>
+</div>
+<span class="prdct-item__str-optns"><strong>0 Stores </strong> at &#8377;29,999</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="7099">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/oneplus-two-msp7099">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/7099-4-thumb.jpg" alt="OnePlus 2 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/oneplus-two-msp7099">OnePlus 2</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 4.1 by 2654 number of users.">
+<div class="rtng-star__inr" style="width: 82%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">24,999</span>
+</div>
+<span class="prdct-item__str-optns"><strong>3 Stores </strong> at &#8377;24,999</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="7115">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/apple-iphone-6s-msp7115">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/7115-6-thumb.jpg" alt="Apple iPhone 6S Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/apple-iphone-6s-msp7115">Apple iPhone 6S</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 2.3 by 124 number of users.">
+<div class="rtng-star__inr" style="width: 46%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">44,999</span>
+</div>
+<span class="prdct-item__str-optns"><strong>9 Stores </strong> at &#8377;44,999</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="7116">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/apple-iphone-6s-plus-msp7116">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/7116-6-thumb.jpg" alt="Apple iPhone 6s Plus Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/apple-iphone-6s-plus-msp7116">Apple iPhone 6s Plus</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 3.8 by 11 number of users.">
+<div class="rtng-star__inr" style="width: 76%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">55,140</span>
+</div>
+<span class="prdct-item__str-optns"><strong>7 Stores </strong> at &#8377;55,140</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="7128">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-note-5-msp7128">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/7128-10-thumb.jpg" alt="Samsung Galaxy Note 5 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-note-5-msp7128">Samsung Galaxy Note 5</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 3.9 by 26 number of users.">
+<div class="rtng-star__inr" style="width: 78%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">44,075</span>
+</div>
+<span class="prdct-item__str-optns"><strong>8 Stores </strong> at &#8377;44,075</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="7178">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-j7-msp7178">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/7178-7-thumb.jpg" alt="Samsung Galaxy J7 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-j7-msp7178">Samsung Galaxy J7</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 4.1 by 370 number of users.">
+<div class="rtng-star__inr" style="width: 82%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">13,259</span>
+</div>
+<span class="prdct-item__str-optns"><strong>7 Stores </strong> at &#8377;13,259</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="7422">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/lenovo-k3-note-msp7422">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/7422-9-thumb.jpg" alt="Lenovo K3 Note Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/lenovo-k3-note-msp7422">Lenovo K3 Note</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 3.8 by 4598 number of users.">
+<div class="rtng-star__inr" style="width: 76%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">9,999</span>
+</div>
+<span class="prdct-item__str-optns"><strong>5 Stores </strong> at &#8377;9,999</span>
+</div>
+</div>
+</div>
+</div>
+<div class="sctn prdct-grid" data-slideitem="prdct-item" data-slideitemwrprper="sctn__inr">
+<div class="sctn__hdr clearfix">
+<div class="sctn__ttl">New Mobile Phones as on January 7, 2016</div>
+<div class="sctn__nvgtn">
+<!--<a class="sctn__view-all-link" href="#">VIEW ALL</a>-->
+</div>
+</div>
+<div class="sctn__inr clearfix">
+<div class="prdct-item" data-mspid="7448">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-j2-msp7448">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/7448-6-thumb.jpg" alt="Samsung Galaxy J2 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-j2-msp7448">Samsung Galaxy J2</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 4.1 by 79 users">
+<div class="rtng-star__inr" style="width: 82%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">7,789</span>
+</div>
+<span class="prdct-item__str-optns"><strong>7 Stores </strong>at &#8377;7,789</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="7462">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-s6-edge-plus-msp7462">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/7462-4-thumb.jpg" alt="Samsung Galaxy S6 edge Plus Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-s6-edge-plus-msp7462">Samsung Galaxy S6 edge Plus</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 4.1 by 23 users">
+<div class="rtng-star__inr" style="width: 82%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">52,794</span>
+</div>
+<span class="prdct-item__str-optns"><strong>6 Stores </strong>at &#8377;52,794</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="7467">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/htc-desire-820-g-plus-msp7467">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/7467-7-thumb.jpg" alt="HTC Desire 820G Plus Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/htc-desire-820-g-plus-msp7467">HTC Desire 820G Plus</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 4.1 by 19 users">
+<div class="rtng-star__inr" style="width: 82%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">14,490</span>
+</div>
+<span class="prdct-item__str-optns"><strong>7 Stores </strong>at &#8377;14,490</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="7628">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/microsoft-lumia-950-msp7628">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/7628-8-thumb.jpg" alt="Microsoft Lumia 950 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/microsoft-lumia-950-msp7628">Microsoft Lumia 950</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 4.2 by 8 users">
+<div class="rtng-star__inr" style="width: 84%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">41,456</span>
+</div>
+<span class="prdct-item__str-optns"><strong>3 Stores </strong>at &#8377;41,456</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="7708">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/sony-xperia-c5-ultra-msp7708">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/new7708-534-thumb.jpg" alt="Sony Xperia C5 Ultra Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/sony-xperia-c5-ultra-msp7708">Sony Xperia C5 Ultra</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 3.5 by 1 users">
+<div class="rtng-star__inr" style="width: 70%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">27,999</span>
+</div>
+<span class="prdct-item__str-optns"><strong>0 Stores </strong>at &#8377;27,999</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="7873">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/motorola-moto-x-style-msp7873">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/7873-7-thumb.jpg" alt="Motorola Moto X Style Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/motorola-moto-x-style-msp7873">Motorola Moto X Style</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 4.1 by 30 users">
+<div class="rtng-star__inr" style="width: 82%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">29,999</span>
+</div>
+<span class="prdct-item__str-optns"><strong>1 Stores </strong>at &#8377;29,999</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="7874">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/motorola-moto-x-play-msp7874">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/7874-2-thumb.jpg" alt="Motorola Moto X Play Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/motorola-moto-x-play-msp7874">Motorola Moto X Play</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 3.9 by 422 users">
+<div class="rtng-star__inr" style="width: 78%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">18,499</span>
+</div>
+<span class="prdct-item__str-optns"><strong>2 Stores </strong>at &#8377;18,499</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="7877">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/micromax-canvas-xpress-2-msp7877">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/7877-10-thumb.jpg" alt="Micromax Canvas Xpress 2 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/micromax-canvas-xpress-2-msp7877">Micromax Canvas Xpress 2</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 3.9 by 1207 users">
+<div class="rtng-star__inr" style="width: 78%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">6,199</span>
+</div>
+<span class="prdct-item__str-optns"><strong>3 Stores </strong>at &#8377;6,199</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="8184">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/lenovo-a2010-msp8184">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/8184-0-thumb.jpg" alt="Lenovo A2010 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/lenovo-a2010-msp8184">Lenovo A2010</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 3.9 by 633 users">
+<div class="rtng-star__inr" style="width: 78%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">4,990</span>
+</div>
+<span class="prdct-item__str-optns"><strong>6 Stores </strong>at &#8377;4,990</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="8358">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/lg-nexus-5--2015-msp8358">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/8358-6-thumb.jpg" alt="LG Nexus 5X Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/lg-nexus-5--2015-msp8358">LG Nexus 5X</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 3.7 by 69 users">
+<div class="rtng-star__inr" style="width: 74%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">22,999</span>
+</div>
+<span class="prdct-item__str-optns"><strong>9 Stores </strong>at &#8377;22,999</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="8808">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-on5-msp8808">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/8808-6-thumb.jpg" alt="Samsung Galaxy On5 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-on5-msp8808">Samsung Galaxy On5</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 4.3 by 489 users">
+<div class="rtng-star__inr" style="width: 86%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">8,990</span>
+</div>
+<span class="prdct-item__str-optns"><strong>2 Stores </strong>at &#8377;8,990</span>
+</div>
+</div>
+<div class="prdct-item" data-mspid="8811">
+<div class="prdct-item__save-btn js-save-btn"></div>
+<a class="prdct-item__img-wrpr" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-on7-msp8811">
+<img class="prdct-item__img" src="http://c0028545.cdn1.cloudfiles.rackspacecloud.com/8811-8-thumb.jpg" alt="Samsung Galaxy On7 Price in India">
+</a>
+<div class="prdct-item__dtls">
+<a class="prdct-item__name" href="http://www.E-DigitalShoppe.com/mobile/samsung-galaxy-on7-msp8811">Samsung Galaxy On7</a>
+<div class="prdct-item__extr-info clearfix">
+<div class="rtng-wrpr">
+<div class="rtng-star js-tltp" data-tooltip="Rated 4.3 by 529 users">
+<div class="rtng-star__inr" style="width: 86%;">
+</div>
+</div>
+</div>
+</div>
+<div class="prdct-item__prc">
+<span class="prdct-item__rpe">?</span>
+<span class="prdct-item__prc-val">10,990</span>
+</div>
+<span class="prdct-item__str-optns"><strong>2 Stores </strong>at &#8377;10,990</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--<div class="js-dls algn-left"></div>
+      <div class="js-rcntly_vwd algn-left"></div>-->
+</div>
+<div class="ftr">
+<div class="ftr__clmn-wrpr1 clearfix">
+<div class="ftr__row clearfix">
+<div class="ftr__clmn ftr__clmn--1-3">
+<div class="ftr-msg clearfix">
+<div class="ftr-msg__img-wrpr">
+<img class="ftr-msg__img" src="http://doypaxk1e2349.cloudfront.net/elements/genuine-products.png" alt="Genuine Products">
+</div>
+<div class="ftr-msg__txt-wrpr">
+<div class="ftr-msg__ttl">
+100% Genuine Products
+</div>
+<div class="ftr-msg__txt">
+We only list genuine products. <br>Who likes to die copying?
+</div>
+</div>
+</div>
+</div>
+<div class="ftr__clmn ftr__clmn--1-3">
+<div class="ftr-msg clearfix">
+<div class="ftr-msg__img-wrpr">
+<img class="ftr-msg__img" src="http://doypaxk1e2349.cloudfront.net/elements/hidden-charges.png" alt="No Hidden Charges">
+</div>
+<div class="ftr-msg__txt-wrpr">
+<div class="ftr-msg__ttl">
+Zero Hidden Charges
+</div>
+<div class="ftr-msg__txt">
+We offer our services for free. <br>Okay, a little love would suffice.
+</div>
+</div>
+</div>
+</div>
+<div class="ftr__clmn ftr__clmn--1-3">
+<div class="ftr-msg clearfix">
+<div class="ftr-msg__img-wrpr">
+<img class="ftr-msg__img" src="http://doypaxk1e2349.cloudfront.net/elements/shield.png" alt="Safe and Secure">
+</div>
+<div class="ftr-msg__txt-wrpr">
+<div class="ftr-msg__ttl">
+100% Safe and Secure
+</div>
+<div class="ftr-msg__txt">
+We only sell products, <br>never your information.
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ftr__row clearfix">
+<div class="ftr__clmn ftr__clmn--1-2">
+<div class="ftr__clmn-ttl-wrpr">
+<span class="ftr__clmn-ttl">Mobile Apps</span>
+</div>
+<a class="ftr__clmn-link" rel="nofollow" href="http://install.E-DigitalShoppe.com?pid=SiteBottomLink" target="_blank"><img src="http://doypaxk1e2349.cloudfront.net/elements/googleplay-badge.png" alt="Android App"></a>
+<a class="ftr__clmn-link" rel="nofollow" href="https://itunes.apple.com/in/app/E-DigitalShoppe/id921497215?mt=8" target="_blank"><img src="http://doypaxk1e2349.cloudfront.net/elements/appstore-badge.png" alt="iOS App"></a>
+</div>
+
+</div>
+</div>
+</div>
+<div class="ftr__extr-info clearfix">
+<div>&copy; 2015 E-DigitalShoppe Web Technology Private Limited</div>
+</div>
+<div class="ftr__made-in-india">
+Made with <span class="ftr__heart">?</span> in India <img src="http://doypaxk1e2349.cloudfront.net/icons/indian_flag.gif" class="ftr__flag" alt="India"/>
+</div>
+</div>
+</div>
+<div class="js-prmtn"></div><script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js'></script>
+<script type='text/javascript' src='/msp/js/useranalytics.js'></script>
+<script type='text/javascript' src='/msp/js/jquery-ui-1.10.3.custom.pack.js'></script>
+<script type='text/javascript' src='/assets/js/msp.js'></script>
+<script type='text/javascript' src='/js/jquery.validate.min.js'></script>
+<script type='text/javascript' src='/msp/js/common.js'></script>
+<!-- Start of LiveChat (www.livechatinc.com) code -->
+<script type="text/javascript">
+        var uid=getCookie("msp_uid");
+        window.__lc = window.__lc || {};
+    window.__lc.license = 6320581;
+    window.__lc.params = [{name:'uid', value:uid}];
+    (function() {
+       var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+         lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+           var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+           })();
+    </script>
+<!-- End of LiveChat code --><script type="text/javascript">
+            var LC_API = LC_API || {};
+        var livechat_chat_started = false;
+
+        LC_API.on_before_load = function()
+        {
+                // don't hide the chat window only if visitor
+                // is currently chatting with an agent
+                if (LC_API.visitor_engaged() === false && livechat_chat_started === false)
+                        {
+                                    LC_API.hide_chat_window();
+                                        }
+        };
+
+        LC_API.on_chat_started = function()
+        {
+                livechat_chat_started = true;
+        };
+</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e17b814664","applicationID":"11722027","transactionName":"NlxTZURSXkVYVkVRDg8WZENfHFlYXVBJFhEJSQ==","queueTime":0,"applicationTime":1,"atts":"GhtQEwxITUs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script></body></html><!-- Cached 7th January 2016 14:25 -->
